@@ -1,3 +1,5 @@
+import axios from 'axios'
+
 export const TEST_ACTION = 'TEST_ACTION'
 
 export function testActionCreator(){
